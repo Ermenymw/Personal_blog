@@ -1,0 +1,37 @@
+/* body class  */
+body {
+  height:100%;
+  background-color:#f6f6f6;
+}
+
+
+
+.header {
+  min-height: 10%;
+  background-color: #87CEFA;
+}
+
+/* footer css */
+.footer {
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+
+}
+
+.footerContent {
+    margin: 10px 0;
+    padding: 0 10%;
+    background-color: #87CEFA;
+}
+
+/* end footer css*/
+
+.main-view {
+  height: 700px;
+
+}
+
+.responsive-img {
+  max-height:100px
+}
